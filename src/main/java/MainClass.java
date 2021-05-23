@@ -8,7 +8,7 @@ public class MainClass {
         Calculator calc = new Calculator();
         System.out.println("using calculator class to add 2+ 5 = " + calc.add(2, 5));
         System.out.println(" yet another change 16/05/2021");
-        System.out.println(" try to build from Jenkins 23/05 trigger");
+        System.out.println(" try to build from Jenkins 23/05 trigger automatic");
 
     }
 }
